@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\bin\Debug\net10.0\class tasks.exe
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\bin\Debug\net10.0\class tasks.deps.json
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\bin\Debug\net10.0\class tasks.runtimeconfig.json
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\bin\Debug\net10.0\class tasks.dll
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\bin\Debug\net10.0\class tasks.pdb
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.AssemblyInfo.cs
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.dll
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\refint\class tasks.dll
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.pdb
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class tasks.genruntimeconfig.cache
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\ref\class tasks.dll
+C:\Users\User\Desktop\class tasks\class tasks\class tasks\obj\Debug\net10.0\class ta.1E810651.Up2Date
