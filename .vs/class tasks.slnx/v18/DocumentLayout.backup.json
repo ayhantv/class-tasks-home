@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class tasks\\class tasks\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|solutionrelative:class tasks\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class tasks\\class tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|solutionrelative:class tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class tasks\\class tasks\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|solutionrelative:class tasks\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class tasks\\class tasks\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B19C4C-F689-CC2E-12D5-A93EF417B70A}|class tasks\\class tasks.csproj|solutionrelative:class tasks\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,23 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AppDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\AppDbcontext.cs",
               "RelativeDocumentMoniker": "class tasks\\AppDbcontext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\AppDbcontext.cs",
-              "RelativeToolTip": "class tasks\\AppDbcontext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\AppDbcontext.cs*",
+              "RelativeToolTip": "class tasks\\AppDbcontext.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T09:50:39.366Z"
+              "WhenOpened": "2026-10-31T09:50:39.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\Employee.cs",
               "RelativeDocumentMoniker": "class tasks\\Employee.cs",
@@ -46,17 +47,18 @@
               "RelativeToolTip": "class tasks\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T09:48:25.164Z"
+              "WhenOpened": "2026-10-31T09:48:25.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\Program.cs",
               "RelativeDocumentMoniker": "class tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\Program.cs*",
-              "RelativeToolTip": "class tasks\\Program.cs*",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGgAAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class tasks\\class tasks\\Program.cs",
+              "RelativeToolTip": "class tasks\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T09:46:44.683Z",
               "EditorCaption": ""

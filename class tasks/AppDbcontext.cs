@@ -23,7 +23,7 @@ namespace class_tasks
                 Email = "RzayevOrxan@gmail.com",
                 Age = 23,
 
-                 salary = 1450,
+                 salary = 1486,
                 adress = "RAMANA"
             };
 
@@ -32,7 +32,7 @@ namespace class_tasks
                 FullName = "Ferid",
                 Email = "abdullayevFerid@gmail.com",
                 Age = 25,
-                salary = 1450,
+                salary = 1559,
                 adress = "Razin"
             };
 
